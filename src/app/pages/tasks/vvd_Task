@@ -1,0 +1,7 @@
+{
+  "odata.metadata":"value":[
+    {
+      "Task_ID":1,"Task_Assigned_Employee_ID":8,"Task_Owner_ID":1,"Task_Customer_Employee_ID":null,"Task_Subject":"Submit the DevExtreme Angular project","Task_Description":"<div>IMPORTANT: The project has to include different components, Header, fixed Footer, Menu, Rx.js.</div>","Task_Start_Date":"2021-07-24T00:00:00","Task_Due_Date":"2021-07-26T00:00:00","Task_Status":"Completed","Task_Priority":4,"Task_Completion":100,"Task_Reminder":true,"Task_Reminder_Date":"2014-01-20T00:00:00","Task_Reminder_Time":"1899-12-30T08:00:00","SSMA_TimeStamp":"AAAAAAAAG1k="
+    }
+  ]
+}
